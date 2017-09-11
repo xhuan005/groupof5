@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 Cooper
-=======
 Kirsten
-<<<<<<< HEAD
->>>>>>> fa41137d84cd19f26fc83b140895207aeacef2d2
-=======
 Allie
->>>>>>> 489ac40f67af2e66255d9d5932e80af1338878d9
