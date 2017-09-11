@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-
 
 Robert
-=======
+
 Kirsten
 Allie
->>>>>>> 489ac40f67af2e66255d9d5932e80af1338878d9
+
